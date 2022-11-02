@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="117" height="117" viewBox="0 0 117 117">
+  <g id="Icon" transform="translate(-346.457 -4334.457)">
+    <path id="Rectangle_15" data-name="Rectangle 15" d="M30,0H87a30,30,0,0,1,30,30v87a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V30A30,30,0,0,1,30,0Z" transform="translate(346.457 4334.457)" fill="#ff5050"/>
+    <path id="Rectangle_17" data-name="Rectangle 17" d="M7,0H61a7,7,0,0,1,7,7V9a0,0,0,0,1,0,0H0A0,0,0,0,1,0,9V7A7,7,0,0,1,7,0Z" transform="translate(370.457 4442.457)" fill="#fff"/>
+    <path id="email-line" d="M30.125,6H3.875A1.875,1.875,0,0,0,2,7.875v18.75A1.875,1.875,0,0,0,3.875,28.5h26.25A1.875,1.875,0,0,0,32,26.625V7.875A1.875,1.875,0,0,0,30.125,6ZM28.681,26.625H5.431l6.562-6.788-1.35-1.3-6.769,7V9.3L15.528,20.9a1.875,1.875,0,0,0,2.644,0L30.125,9.009V25.416l-6.9-6.9L21.9,19.837ZM5.1,7.875h23.5L16.85,19.566Z" transform="translate(387.457 4375.457)" fill="#f8f8f8"/>
+  </g>
+</svg>

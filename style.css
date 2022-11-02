@@ -1,0 +1,11 @@
+html,
+body {
+  background-image: url();
+  background-size: cover;
+  padding: 0px;
+  margin: 0px;
+}
+
+#exampleFormControlTextarea1.form-control::placeholder {
+  color: #f8f8f8 !important;
+}

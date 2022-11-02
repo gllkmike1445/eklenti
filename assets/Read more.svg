@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.32" height="19" viewBox="0 0 109.32 19">
+  <g id="Read_more" data-name="Read more" transform="translate(-767 -3588)">
+    <text id="Devamını_oku" data-name="Devamını oku" transform="translate(767 3603)" fill="rgba(62,61,61,0.57)" font-size="14" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">devamını oku</tspan></text>
+    <g id="arrow-down" transform="translate(853.876 3613.327) rotate(-90)">
+      <path id="Path_3" data-name="Path 3" d="M10.348,21.6a.764.764,0,0,1,1.082,0l4.045,4.046L19.521,21.6A.765.765,0,1,1,20.6,22.68l-4.587,4.587a.764.764,0,0,1-1.082,0L10.348,22.68a.764.764,0,0,1,0-1.082Z" transform="translate(0 -5.047)" fill="rgba(62,61,61,0.57)" fill-rule="evenodd"/>
+      <path id="Path_4" data-name="Path 4" d="M17.639,5.625a.764.764,0,0,1,.764.764v13.76a.764.764,0,1,1-1.529,0V6.389A.764.764,0,0,1,17.639,5.625Z" transform="translate(-2.164)" fill="rgba(62,61,61,0.57)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
